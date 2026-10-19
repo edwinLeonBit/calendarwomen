@@ -22,6 +22,29 @@ body {
     max-width: 500px;
 }
 
+.brand-header {
+    text-align: center;
+    padding-bottom: 18px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #f3dce5;
+}
+
+.brand-logo {
+    display: block;
+    width: min(220px, 100%);
+    height: auto;
+    margin: 0 auto 8px;
+}
+
+.brand-credit {
+    color: #765477;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 14px;
+    border-top: 1px solid #f3dce5;
+}
+
 h1, h2 {
     color: #d81b60;
     text-align: center;
